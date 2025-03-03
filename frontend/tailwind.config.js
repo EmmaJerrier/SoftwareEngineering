@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        ATECblue: '#0152A1',
+        MISSIONblack: '#181a1a',
       },
     },
     screens: {
